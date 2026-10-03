@@ -12,6 +12,6 @@ Mail: aanesk@stud.ntnu.no<br>
 Mail: eanordli@stud.ntnu.no<br>
 
 ## Ansvarsområder:
-Soner/sone - Emma Nordli
-Kunde/kunder - Markus Aarhus
-Bolig/enebolig - Åne Kristoffersen
+Soner/sone - Emma Nordli  
+Kunde/kunder - Markus Aarhus  
+Bolig/enebolig - Åne Kristoffersen  
